@@ -32,6 +32,7 @@
   
 </div>
 
-![Snake gif](https://github.com/lucaszimmerman/lucaszimmerman/blob/output/github-contribution-grid-snake.svg)
+<img align="center" alt="Yoda-Gif" src="https://tenor.com/pt-BR/view/yoda-there-is-no-try-do-star-wars-dont-do-gif-5918158">
+
 ##
 
