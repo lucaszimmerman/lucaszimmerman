@@ -32,6 +32,6 @@
   
 </div>
 
-![Snake animation](https://github.com/lucaszimmerman/lucaszimmerman/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/lucaszimmerman/lucaszimmerman/blob/output/github-contribution-grid-snake.svg)
 ##
 
