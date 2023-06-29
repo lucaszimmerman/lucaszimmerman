@@ -11,7 +11,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucaszimmerman&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/lucaszimmerman/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaszimmerman&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaszimmerman&layout=compact&langs_count=8&card_width=220&show_icons=true&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
@@ -22,6 +22,7 @@
     <img align="center" alt="Icon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
+
   
   ##
  
@@ -31,5 +32,5 @@
   
 </div>
 
-
+![Snake animation](https://github.com/lucaszimmerman/lucaszimmerman/blob/output/github-contribution-grid-snake-svg)
 ##
