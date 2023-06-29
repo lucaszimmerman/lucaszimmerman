@@ -32,7 +32,8 @@
   
 </div>
 
-<img align="center" alt="Yoda-Gif" src="https://tenor.com/pt-BR/view/yoda-there-is-no-try-do-star-wars-dont-do-gif-5918158">
 
-##
+<img align="center" alt="Yoda-Gif" src="yoda-there-is-no-try.gif">
+
+
 
