@@ -34,3 +34,4 @@
 
 ![Snake animation](https://github.com/lucaszimmerman/lucaszimmerman/blob/output/github-contribution-grid-snake.svg)
 ##
+
