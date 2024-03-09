@@ -1,9 +1,9 @@
 ## Olá, eu sou o Lucas! Seja bem vindo ao meu perfil! 👋
 
 
-- 🖥️ Buscando conhecimento para me tornar um desenvolvedor Full-Stack
+- 🖥️ Buscando conhecimento para me tornar um desenvolvedor Back-End
 - 🏫 Atualmente faço graduação em Análise e Desenvolvimento de Sistemas
-- 📜 Estudando Back-End (Java)
+
 
 ##
 
